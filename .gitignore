@@ -1,0 +1,5 @@
+.idea
+target
+*.sc
+project/target
+project/project
